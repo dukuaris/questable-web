@@ -65,7 +65,7 @@ const Hero = () => {
               color="primary"
               size="large"
               fullWidth={isMd ? false : true}
-              href={'https://www.questable.ai/signup'}
+              href={'https://app.questable.ai/signup'}
             >
               <span style={{ fontWeight: 'bold' }}>Get Started</span>
               &nbsp;for free

@@ -79,7 +79,7 @@ const Topbar = ({ onSidebarOpen, pages, colorInvert = false }) => {
           <Link
             underline="none"
             component="a"
-            href="https://questable.ai/signin"
+            href="https://app.questable.ai/signin"
             color="text.primary"
             variant={'subtitle2'}
             sx={{fontSize: 16}}

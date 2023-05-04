@@ -89,7 +89,7 @@ const Footer = () => {
     //             color="primary"
     //             component="a"
     //             target="blank"
-    //             href="https://www.questable.ai/signup"
+    //             href="https://app.questable.ai/signup"
     //             size="small"
     //           >
     //             Get Started Now
